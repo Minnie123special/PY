@@ -1,0 +1,4 @@
+代碼:irm https://get.activated.win | iex
+改專業版:先換版本，再激活
+換版本:按Change Windows Editionc或[7]，按KMS38 - Windows或[4]，之後會重啟2次
+激活:按[1]，檢查激活，如沒有激活，再按[1]，之後按[0]，回首頁。
